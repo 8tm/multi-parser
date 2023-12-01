@@ -3,3 +3,16 @@
 
 # Virtual Environment
 .venv
+
+# pytest
+.pytest_cache/
+
+# coverage
+htmlcov/
+.coverage
+
+# Python
+__pycache__/
+
+# mypy
+.mypy_cache/
